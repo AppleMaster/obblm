@@ -1,11 +1,12 @@
 ###Online Blood Bowl League Manager
 Online Blood Bowl League Manager is an online game management system for Game Workshop's board game Blood Bowl.
 
-The authors of this program are
+The authors of this program are:
 
-Nicholas Mossor Rathmann
-William Leonard
-Niels Orsleff Justesen
+* Nicholas Mossor Rathmann
+* William Leonard
+* Niels Orsleff Justesen
+* 
 With special thanks to Pierluigi Masia, Mag Merli, Lars Scharrenberg, Tim Haini, Daniel Straalman, Juergen Unfried, Sune Radich Christensen, Michael Bielec, Grégory Romé, Goiz Ruiz de Gopegui, Ryan Williams and Ian Williams.
 
 Bugs reports and suggestions are welcome. 
